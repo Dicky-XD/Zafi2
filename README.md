@@ -22,7 +22,7 @@ If you can't use this script or there is a bug in the script, please contact me
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282371648186?text=Asalamualaikum+bang)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6289670952904?text=Asalamualaikum+bang)
 #### Donasi Dana :
-+6282371648186
++6282371648186 <br>
 +6289670952904
 #
 Thank TO 
