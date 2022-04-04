@@ -27,4 +27,4 @@ If you can't use this script or there is a bug in the script, please contact me
 #
 Thank TO <br>
 ROMI AFRIZAL<br>
-[![](https://www.github.com/mark-zuck)
+[![](https://www.github.com/mark-zuck)]
