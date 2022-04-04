@@ -2,8 +2,8 @@
 $ pkg update && pkg upgrade <br>
 $ pkg install python2 <br>
 $ pkg install git <br>
-$ git clone https://github.com/Mark-Zuck/zafi <br>
-$ cd zafi <br>
+$ git clone https://github.com/Mark-Zuck/zafi2 <br>
+$ cd zafi2 <br>
 $ pip2 install -r zona.zafi2 <br>
 $ python2 zafi2.py <br>
 #
@@ -27,4 +27,4 @@ If you can't use this script or there is a bug in the script, please contact me
 #
 Thank TO <br>
 ROMI AFRIZAL<br>
-(https://www.github.com/mark-zuck)
+[![](https://www.github.com/mark-zuck)
