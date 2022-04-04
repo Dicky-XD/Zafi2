@@ -25,4 +25,6 @@ If you can't use this script or there is a bug in the script, please contact me
 +6282371648186 <br>
 +6289670952904
 #
-Thank TO 
+Thank TO <br>
+ROMI AFRIZAL<br>
+(https://www.github.com/mark-zuck)
