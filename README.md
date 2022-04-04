@@ -1,7 +1,6 @@
 # * JANGAN LUPA BINTANG NYA
 #
-#Thank TO <br>
-ROMI AFRIZAL<br>
+#Terima Kasih ROMI AFRIZAL<br>
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://www.github.com/mark-zuck)
 
 ## Installation
