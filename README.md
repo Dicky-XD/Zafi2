@@ -7,7 +7,7 @@
 $ pkg update && pkg upgrade <br>
 $ pkg install python2 <br>
 $ pkg install git <br>
-$ git clone https://github.com/Mark-Zuck/zafi2 <br>
+$ git clone https://github.com/Dicky-XD/zafi2 <br>
 $ cd zafi2 <br>
 $ pip2 install -r zona.zafi2 <br>
 $ python2 zafi2.py <br>
