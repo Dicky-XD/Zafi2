@@ -27,4 +27,4 @@ If you can't use this script or there is a bug in the script, please contact me
 #
 Thank TO <br>
 ROMI AFRIZAL<br>
-[![](https://img.shields.io/badge/Github-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.github.com/mark-zuck)
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://www.github.com/mark-zuck)
