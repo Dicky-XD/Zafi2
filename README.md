@@ -1,3 +1,9 @@
+# * JANGAN LUPA BINTANG NYA
+#
+#Thank TO <br>
+ROMI AFRIZAL<br>
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://www.github.com/mark-zuck)
+
 ## Installation
 $ pkg update && pkg upgrade <br>
 $ pkg install python2 <br>
@@ -25,6 +31,3 @@ If you can't use this script or there is a bug in the script, please contact me
 +6282371648186 <br>
 +6289670952904
 #
-Thank TO <br>
-ROMI AFRIZAL<br>
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://www.github.com/mark-zuck)
