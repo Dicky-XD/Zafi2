@@ -12,6 +12,8 @@ $ cd zafi2 <br>
 $ pip2 install -r zona.zafi2 <br>
 $ python2 zafi2.py <br>
 #
+-Yang Sudah Install Silahkan Ketik gitpull untuk update 
+#
 #### Info Menu :<br>
  [01] Dump id public <br>
  [02] Start crack <br>
